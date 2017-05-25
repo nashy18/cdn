@@ -1,9 +1,25 @@
-﻿body {
+body {
     font-size: medium;
+}
+
+#divMainContent{
+    min-height: 600px;
+}
+
+.color-dark-blue{
+    color : #18446B;
+}
+
+.color-yellow{
+    color : #F1BC32;
 }
 
 .header-nav-top{
     background-color: #18446B;
+}
+
+.header-nav-top .header-nav-top-height{
+    height:5px;
 }
 
 .btn-yellow{
@@ -19,5 +35,10 @@
 .footer-icon{
     border: 1px solid grey;
     border-radius: 20px;
-    padding: 6px;
+    padding: 10px;
+}
+
+.blog-filter-header{
+    background-color: #507FAB;
+    color :white;
 }
