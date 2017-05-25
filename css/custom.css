@@ -18,6 +18,10 @@ body {
     color : #F1BC32;
 }
 
+.color-grey{
+    color: grey;
+}
+
 .header-nav-top{
     background-color: #18446B;
 }
